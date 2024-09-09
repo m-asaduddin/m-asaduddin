@@ -19,18 +19,14 @@ There are some of my skills. I still want to learn more and deepening them
   [![MySQL](https://skillicons.dev/icons?i=mysql,postgres,firebase)](#)
 - **Game Development**
 
-  [![Game Development](https://skillicons.dev/icons?i=godot)](#)
+  [![Game Development](https://skillicons.dev/icons?i=godot,blender)](#)
 - **Desktop GUI App Development**
 
   [![Java](https://skillicons.dev/icons?i=java)](#) and Visual Basic 
 - **A bit of**
   
   [![archlinux, cpp](https://skillicons.dev/icons?i=arch,cpp,arduino)](#)
-- **3d Modelling with Blender**
-
-  [![Blender](https://skillicons.dev/icons?i=blender)](#)
-- Some Video Editing 
-- Some Digital Art
+- Some Video Editing and Digital Art
 
 
 There is not much to see yet... but there is it.
