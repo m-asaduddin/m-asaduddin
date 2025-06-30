@@ -14,12 +14,12 @@ There are some of my skills. I still want to learn more and deepening them
 - **iOS Development**
 
   [![iOS](https://skillicons.dev/icons?i=swift)](#)
-- **Machine Learning**
-
-  [![Machine Learning](https://skillicons.dev/icons?i=py,pytorch,tensorflow)](#)
 - **Web Development**
 
   [![Web](https://skillicons.dev/icons?i=php,js,ts,laravel,react,tailwind,css,html,mysql,postgres,firebase)](#)
+- **Machine Learning**
+
+  [![Machine Learning](https://skillicons.dev/icons?i=py,pytorch,tensorflow)](#)
 - **Other**
   
   [![archlinux, cpp](https://skillicons.dev/icons?i=cpp,java,kotlin,androidstudio,godot,blender,arduino)](#)
