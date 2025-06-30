@@ -11,18 +11,24 @@ Currently, I'm interested in iOS development using **SwiftUI** and **UIKit**.
 # Skills
 There are some of my skills. I still want to learn more and deepening them
 
-- **iOS Development**
+**iOS Development**
 
-  [![iOS](https://skillicons.dev/icons?i=swift)](#)
-- **Web Development**
+[![iOS](https://skillicons.dev/icons?i=swift)](#)
+--
+**Web Development**
 
-  [![Web](https://skillicons.dev/icons?i=php,js,ts,laravel,react,tailwind,css,html,mysql,postgres,firebase)](#)
-- **Machine Learning**
+[![Web](https://skillicons.dev/icons?i=php,js,ts,laravel,react,tailwind,css,html,mysql,postgres,firebase)](#)
+--
+**Machine Learning**
 
-  [![Machine Learning](https://skillicons.dev/icons?i=py,pytorch,tensorflow)](#)
-- **Other**
+[![Machine Learning](https://skillicons.dev/icons?i=py,pytorch,tensorflow)](#)
+--
+**Other**
   
-  [![archlinux, cpp](https://skillicons.dev/icons?i=cpp,java,kotlin,androidstudio,godot,blender,arduino)](#)
+[![other](https://skillicons.dev/icons?i=cpp,java,kotlin,androidstudio,godot)](#)
+
+# Contact Me
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asad-ddin/)  [![Mail](https://skillicons.dev/icons?i=gmail)](muhammad.asaduddin.1.19.1.4@gmail.com)
 
 
 There is not much to see yet... but there is it.
