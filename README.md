@@ -17,7 +17,7 @@ There are some of my skills. I still want to learn more and deepening them
 --
 **Web Development**
 
-[![Web](https://skillicons.dev/icons?i=php,js,ts,laravel,react,tailwind,css,html,mysql,postgres,firebase)](#)
+[![Web](https://skillicons.dev/icons?i=php,js,laravel,react,tailwind,css,html,mysql)](#)
 --
 **Machine Learning**
 
