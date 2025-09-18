@@ -2,7 +2,7 @@
 
 My name is Muhammad Asaduddin, you guys can call me **Asad**. 
 
-I am undergraduate Informatics Engineering student at Politeknik Negeri Jakarta, and Cohort 8 at Apple Developer Academy @ BINUS Tangerang. 
+I am Cohort 8 Learner at Apple Developer Academy @ BINUS Tangerang, and Fresh graduate Informatics Engineering at Politeknik Negeri Jakarta.
 
 I'm a curious person, and willing to learn more in depth to know something. 
 
