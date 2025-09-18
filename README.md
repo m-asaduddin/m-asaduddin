@@ -28,7 +28,7 @@ There are some of my skills. I still want to learn more and deepening them
 [![other](https://skillicons.dev/icons?i=cpp,java,kotlin,androidstudio,godot)](#)
 
 # Contact Me
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asad-ddin/)  [![Mail](https://skillicons.dev/icons?i=gmail)](muhammad.asaduddin.1.19.1.4@gmail.com)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asad-ddin/)  [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:muhammad.asaduddin.1.19.1.4@gmail.com)
 
 
 There is not much to see yet... but there is it.
